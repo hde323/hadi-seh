@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Vinyl&family=Sono:wght@500&family=Ubuntu:wght@300&family=Work+Sans:wght@200;300;400;500;600;700;800&display=swap');
+*{
+    font-family: 'Ubuntu', sans-serif;
+}
+center{
+    width: 100%;
+    align-content: center;
+}
+.logo{
+    width: 34px;
+    height: 40px;
+    padding-top: 15px ;
+}
+input{
+    border: solid;
+    border-width: 1px;
+    border-color: grey;
+    width: 80%;
+    height: 40px;
+    margin-top: 15px;
+    font-size: 18px;
+    padding: 10px;
+}
+form{
+    padding-top: 15px ;
+    padding-bottom: 15px;
+}
+
+.sub{
+    border: none;
+    background-color: #142c8e;
+    color: white;
+    border-radius: 20px;
+    height: 50px;
+}
+
